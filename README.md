@@ -1,0 +1,1 @@
+This repository contains a simple C program that demonstrates a common C error: dereferencing a null pointer. The program attempts to access memory at an invalid address, leading to unexpected behavior or crashes.  The solution demonstrates how to prevent this error by checking for null pointers before dereferencing them.
